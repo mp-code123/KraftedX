@@ -1,0 +1,22 @@
+<h1> Prompt for Calculator </h1> 
+
+<p>Create an advanced calculator application in Python with the following features:</p>
+
+Basic Operations:
+Perform addition, subtraction, multiplication, and division. Allow users to input complex expressions and evaluate the result. 
+
+Advanced Operations:
+Include the following advanced functionalities:
+Square Root: Calculate the square root of a number.
+Power: Compute the result of a number raised to another number.
+Modulus: Find the remainder of a division.
+Percentage, logarithms.
+Keep it user friendly.
+
+Interface:
+Provide a menu-driven system where users can select: Basic operations by entering a mathematical expression. Advanced operations like square root, power, percentage, log or modulus. Allow the user to return to the main menu or exit the program.
+Error Handling:
+Handle invalid inputs gracefully. Display appropriate error messages for: Division by zero. Invalid mathematical expressions. Non-numeric inputs. 
+
+Additional Requirements:
+Keep the code modular by organizing functionalities into separate functions. Include comments explaining key parts of the code for clarity. Provide a welcome message and clear instructions for the user. Ensure the application is interactive, user-friendly, and robust.
